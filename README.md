@@ -1,2 +1,5 @@
 # Geospatial_Analysis
-practice with GeoPandas
+
+Purpose: to practice with GeoPandas, learned from Kaggle course (link: https://www.kaggle.com/learn/geospatial-analysis)
+
+
