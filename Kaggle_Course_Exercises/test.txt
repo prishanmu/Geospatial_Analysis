@@ -1,1 +1,0 @@
-This file path will host my notebooks from the Kaggle Course's Exercises, including my solutions. 
