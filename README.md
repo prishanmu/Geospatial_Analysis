@@ -1,4 +1,4 @@
-# Geospatial_Analysis
+# Geospatial Analysis Practice Repo
 
 **Purpose**: to practice with GeoPandas and Folium, learned from this Kaggle course (link: https://www.kaggle.com/learn/geospatial-analysis)
 
